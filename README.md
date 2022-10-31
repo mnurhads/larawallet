@@ -28,4 +28,4 @@
 
 ### View
 
-![LOGIN](https://user-images.githubusercontent.com/108712079/193983481-af59380f-2064-4ba1-a78d-c974bdc265b4.png)
+![logo-pay](https://user-images.githubusercontent.com/108712079/198963550-3f39b43f-5bb1-49b1-93f3-1cc53c4b9cd3.jpg)
